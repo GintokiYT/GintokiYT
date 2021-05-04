@@ -3,7 +3,7 @@
 - 🌱 I am currently learning ReactJs
 - 📫 How to get to me
 - Email: satoshiune21@gmail.com
-- WhatsApp! : +51 929889178
+- WhatsApp! : +51 934369928
 - Cell: +51 9343699228
 
 <!---
