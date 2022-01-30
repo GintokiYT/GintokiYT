@@ -2,7 +2,7 @@
 - 👀 I am interested in Fronted and Bakend development.
 - 🌱 I am currently learning ReactJs
 - 📫 How to get to me
-- Email: satoshiune21@gmail.com
+- Email: devrenatonavarro@gmail.com
 - WhatsApp! : +51 934369928
 - Cell: +51 9343699228
 
